@@ -1,0 +1,15 @@
+C:\Users\kiss_\source\repos\пары\cycles\cycles\bin\Debug\net6.0\cycles.exe
+C:\Users\kiss_\source\repos\пары\cycles\cycles\bin\Debug\net6.0\cycles.deps.json
+C:\Users\kiss_\source\repos\пары\cycles\cycles\bin\Debug\net6.0\cycles.runtimeconfig.json
+C:\Users\kiss_\source\repos\пары\cycles\cycles\bin\Debug\net6.0\cycles.dll
+C:\Users\kiss_\source\repos\пары\cycles\cycles\bin\Debug\net6.0\cycles.pdb
+C:\Users\kiss_\source\repos\пары\cycles\cycles\obj\Debug\net6.0\cycles.csproj.AssemblyReference.cache
+C:\Users\kiss_\source\repos\пары\cycles\cycles\obj\Debug\net6.0\cycles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiss_\source\repos\пары\cycles\cycles\obj\Debug\net6.0\cycles.AssemblyInfoInputs.cache
+C:\Users\kiss_\source\repos\пары\cycles\cycles\obj\Debug\net6.0\cycles.AssemblyInfo.cs
+C:\Users\kiss_\source\repos\пары\cycles\cycles\obj\Debug\net6.0\cycles.csproj.CoreCompileInputs.cache
+C:\Users\kiss_\source\repos\пары\cycles\cycles\obj\Debug\net6.0\cycles.dll
+C:\Users\kiss_\source\repos\пары\cycles\cycles\obj\Debug\net6.0\refint\cycles.dll
+C:\Users\kiss_\source\repos\пары\cycles\cycles\obj\Debug\net6.0\cycles.pdb
+C:\Users\kiss_\source\repos\пары\cycles\cycles\obj\Debug\net6.0\cycles.genruntimeconfig.cache
+C:\Users\kiss_\source\repos\пары\cycles\cycles\obj\Debug\net6.0\ref\cycles.dll
